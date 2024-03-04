@@ -1,0 +1,12 @@
+D:\RiderProject\DefaultServer\bin\Debug\DefaultServer.exe
+D:\RiderProject\DefaultServer\bin\Debug\DefaultServer.pdb
+D:\RiderProject\DefaultServer\obj\Debug\DefaultServer.csproj.AssemblyReference.cache
+D:\RiderProject\DefaultServer\obj\Debug\DefaultServer.csproj.CoreCompileInputs.cache
+D:\RiderProject\DefaultServer\obj\Debug\DefaultServer.exe
+D:\RiderProject\DefaultServer\obj\Debug\DefaultServer.pdb
+C:\Users\83766\Desktop\NetTest\DefaultServer\bin\Debug\DefaultServer.exe
+C:\Users\83766\Desktop\NetTest\DefaultServer\bin\Debug\DefaultServer.pdb
+C:\Users\83766\Desktop\NetTest\DefaultServer\obj\Debug\DefaultServer.csproj.AssemblyReference.cache
+C:\Users\83766\Desktop\NetTest\DefaultServer\obj\Debug\DefaultServer.csproj.CoreCompileInputs.cache
+C:\Users\83766\Desktop\NetTest\DefaultServer\obj\Debug\DefaultServer.exe
+C:\Users\83766\Desktop\NetTest\DefaultServer\obj\Debug\DefaultServer.pdb
